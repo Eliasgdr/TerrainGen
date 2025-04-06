@@ -1,0 +1,7 @@
+#ifndef CONSTANTS_HPP
+#define CONSTANTS_HPP
+
+#define WIDTH 1280
+#define HEIGHT 720
+
+#endif //CONSTANTS_HPP
