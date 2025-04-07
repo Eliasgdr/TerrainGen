@@ -1,6 +1,9 @@
 #ifndef RENDERER_HPP
 #define RENDERER_HPP
 
+
+#include <iostream>
+#include <GL/glew.h>
 #include <GLFW/glfw3.h>
 #include "constants.hpp"
 

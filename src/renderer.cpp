@@ -1,7 +1,3 @@
-#include <iostream>
-#include <GL/glew.h>
-#include <GLFW/glfw3.h>
-
 #include "../include/renderer.hpp"
 
 void framebuffer_size_callback(GLFWwindow* window, const int width, const int height)

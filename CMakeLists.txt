@@ -19,8 +19,8 @@ add_executable(procedural_terrain src/main.cpp
         include/constants.hpp
         src/renderer.cpp
         include/renderer.hpp
-        src/shaders.cpp
-        include/shaders.hpp)
+        src/shader.cpp
+        include/shader.hpp)
 
 target_link_libraries(procedural_terrain
         ${OPENGL_LIBRARIES}
